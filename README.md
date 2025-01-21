@@ -11,3 +11,7 @@ OpenWeatherCLI is a simple command-line tool to fetch weather data using the Ope
 Clone the repository:
 ```bash
 git clone https://github.com/yourusername/OpenWeatherCLI.git
+
+
+## License
+This project is licensed under the MIT. See the [LICENSE] file for details.
